@@ -1,7 +1,7 @@
 # Projeto de Simulador do Microcontrolador 8051
 
-Matéria: Arquitetura de Computadores
-Semestre: 4°
+- Matéria: Arquitetura de Computadores
+- Semestre: 4°
 
 ## Descrição do Projeto
 
